@@ -16,3 +16,7 @@ I’m using this book as part of my transition into data science, scientific com
 - Chapter-wise solutions
 - Jupyter notebooks and Python scripts
 - Visualizations and numerical experiments
+
+
+## Chapter 1: 
+Few exercise of this chapter available
