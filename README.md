@@ -19,12 +19,12 @@ I’m using this book as part of my transition into data science, scientific com
 
 
 ## Chapter 1: 
-- Few exercise of this chapter available
+-  Few exercise of this chapter available
 
 
 ## Chapter 2: Variables and Basic Data Structures
 
-- Variables_and_strings_Part_1
+-  Variables_and_strings_Part_1
 In this file, I have coded many strings methods
 
 Ch_2_List_Part_2
