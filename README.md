@@ -27,5 +27,5 @@ I’m using this book as part of my transition into data science, scientific com
   
 -  In this file, I have coded many strings methods
 
-Ch_2_List_Part_2
-In this file, list concept like creating a list and various methods are coded
+-  Ch_2_List_Part_2
+-  In this file, list concept like creating a list and various methods are coded
